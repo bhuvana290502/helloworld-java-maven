@@ -8,7 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello  sudar super worldd - login issue fix" );
+        System.out.println( "Hello  sudar super world - login issue fix" );
     }
 }
 
